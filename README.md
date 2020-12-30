@@ -25,7 +25,9 @@ and learn new things.
   - Nearly 50 contributors
 
 
-If you want to reach out to me, feel free to email me at `devries.timothyj <at> gmail.com` or discord (TJ DeVries#4375)
+If you want to reach out to me, feel free to reach out:
+- Email: `devries.timothyj <at> gmail.com`
+- Discord: `TJ DeVries#4375`
 
 
 #### Projects:
