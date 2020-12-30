@@ -25,9 +25,10 @@ and learn new things.
   - Nearly 50 contributors
 
 
-Contact Information:
+#### Contact Information:
 - Email: `devries.timothyj <at> gmail.com`
 - Discord: `TJ DeVries#4375`
+- Linkedin: [devriestimothy](https://www.linkedin.com/in/devriestimothy/)
 
 
 #### Projects:
