@@ -2,12 +2,12 @@
 
 # Looking For Work
 
-I am a former technical lead at
-  [Sourceress](https://www.sourceress.com/),
-  [open](https://github.com/neovim/neovim)
-  [source](https://github.com/nvim-telescope/telescope.nvim)
-  [maintainer](https://github.com/tjdevries/config_manager), and
-  [twitch streamer](https://twitch.tv/teej_dv)
+
+I am a
+  core maintainer for a project with over 40,000 stars ([neovim](https://github.com/neovim/neovim)),
+  built my own open source community ([telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)),
+  former technical lead at [Sourceress](https://www.sourceress.com/),
+  and [twitch streamer](https://twitch.tv/teej_dv)
 who is looking for a new (remote) job as a Senior Engineer where I get the chance to make excellent software
 and learn new things.
 
