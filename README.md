@@ -8,7 +8,7 @@ I am a former technical lead at
   [source](https://github.com/nvim-telescope/telescope.nvim)
   [maintainer](https://github.com/tjdevries/config_manager), and
   [twitch streamer](https://twitch.tv/teej_dv)
-who is looking for a new (remote) job where I get the chance to make excellent software
+who is looking for a new (remote) job as a Senior Engineer where I get the chance to make excellent software
 and learn new things.
 
 
@@ -23,7 +23,6 @@ and learn new things.
 - Built a community around my fuzzy finder plugin [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim):
   - Over 500 stars
   - Nearly 50 contributors
-
 
 #### Contact Information:
 - Email: `devries.timothyj <at> gmail.com`
