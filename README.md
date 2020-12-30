@@ -25,7 +25,7 @@ and learn new things.
   - Nearly 50 contributors
 
 
-If you want to reach out to me, feel free to reach out:
+Contact Information:
 - Email: `devries.timothyj <at> gmail.com`
 - Discord: `TJ DeVries#4375`
 
@@ -43,7 +43,7 @@ If you want to reach out to me, feel free to reach out:
 #### Sponsor:
 
 I like making plugins and making Neovim work better for me & as many people as I can :grin:.
-You can sponsor my work at [sponsor](https://github.com/sponsors/tjdevries).
+You can sponsor my work [here](https://github.com/sponsors/tjdevries).
 
 
 - ⚡ Fun fact: I like to play the marimba!
