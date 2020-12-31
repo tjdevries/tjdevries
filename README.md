@@ -9,12 +9,18 @@ I am a:
 - Technical Lead: [Sourceress](https://www.sourceress.com/)
 - Live Coder: [teej_dv](https://twitch.tv/teej_dv)
 
-Looking for a place where I can grow as a developer by writing maintainable code, architecting new systems and features, learning from and mentoring other developers
+<!--
+Looking for a place where I can grow as a developer by
+    writing maintainable code,
+    architecting new systems and features,
+    learning from and mentoring other developers
+    -->
 
 Looking for:
 - Remote senior-level position at a software company
   - Tech Lead or Engineer
-- Grow and maintain healthy code bases in production, as well as transforming legacy code into healthy code
+- Grow and maintain healthy code bases in production
+  - As well as transforming legacy code into healthy code
 - Culture:
   - Values learning
     - For example:
