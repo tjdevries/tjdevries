@@ -4,7 +4,7 @@ I am a:
 - Core Maintainer: [Neovim](https://github.com/neovim/neovim) with over 40k stars & over 1 million downloads.
 - Community Builder: [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) which has over 50 contributors in less than 6 months.
 - Developer Tool Creator: [plenary.nvim](https://github.com/nvim-lua/plenary.nvim/)
-- Technical Lead: [Sourceress](https://www.sourceress.com/)
+- Working at: [Sourcegraph](https://www.sourcegraph.com/)
 - Live Coder: [teej_dv](https://twitch.tv/teej_dv)
 
 
