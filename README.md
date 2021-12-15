@@ -27,6 +27,6 @@ I am a:
 I like making plugins and making Neovim work better for me & as many people as I can :grin:.
 You can sponsor my work [here](https://github.com/sponsors/tjdevries).
 
-I also accept Monero at this address: 86a5RJkiwcwRR321UPjD1bJgb6QU7mEZri3hgUBv2JJe2KJVWX5Nr1GienyWCnawrH3Zf7UContd61UhpjU34T9G46HRgRS
+If github sponsors isn't your thing, you can checkout teejdv.eth
 
 - ⚡ Fun fact: I like to play the marimba!
