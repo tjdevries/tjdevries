@@ -27,6 +27,4 @@ I am a:
 I like making plugins and making Neovim work better for me & as many people as I can :grin:.
 You can sponsor my work [here](https://github.com/sponsors/tjdevries).
 
-If github sponsors isn't your thing, you can checkout teejdv.eth
-
 - ⚡ Fun fact: I like to play the marimba!
