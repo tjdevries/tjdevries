@@ -8,7 +8,7 @@ I am a:
 
 Currently working full-time on streaming, making videos and course materials.
 
-Formerly at [Sourcegraph](sourcegraph.com)
+Formerly at [Sourcegraph](https://sourcegraph.com)
 
 
 #### Contact Information:
